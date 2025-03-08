@@ -11,3 +11,4 @@ Pillow>=9.0.0
 tensorboardX>=2.0
 Flask==2.0.3
 requests==2.26.0
+dlib
